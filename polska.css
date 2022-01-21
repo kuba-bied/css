@@ -1,3 +1,8 @@
 :root{
   --background-image: url("ddd.jpg") !important;
+@import url('https://github.com/kuba-bied/css.git')
+
+
+:root{
+  --background-image: url("ddd.jpg") !important;
 }
